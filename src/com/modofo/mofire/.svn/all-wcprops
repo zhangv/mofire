@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire
+END
+MoFireMIDlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/MoFireMIDlet.java
+END
+Lang.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/Lang.java
+END
+MoFire.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/MoFire.java
+END
+MoFireEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/MoFireEvent.java
+END
+ImageUploadingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/ImageUploadingException.java
+END
+MoFireEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/MoFireEventType.java
+END
+DuplicateSettingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/DuplicateSettingException.java
+END
+MoFireListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/MoFireListener.java
+END
+MoFireMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/MoFireMgr.java
+END
+Res.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/Res.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/Constants.java
+END
+XmlRpcClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/XmlRpcClientFactory.java
+END
+GoogleMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/GoogleMaps.java
+END

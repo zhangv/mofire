@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap
+END
+Wml.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap/Wml.java
+END
+WapExtensionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap/WapExtensionEvent.java
+END
+WbxmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap/WbxmlParser.java
+END
+WbxmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap/WbxmlWriter.java
+END
+Wbxml.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap/Wbxml.java
+END
+WmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap/WmlParser.java
+END
+WmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/wap/WmlWriter.java
+END

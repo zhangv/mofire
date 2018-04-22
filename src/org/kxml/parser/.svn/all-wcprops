@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser
+END
+Tag.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/Tag.class
+END
+ParseEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/ParseEvent.class
+END
+AbstractXmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/AbstractXmlParser.java
+END
+XmlParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/XmlParser.class
+END
+AbstractXmlParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/AbstractXmlParser.class
+END
+XmlParser$DefaultParserException.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/XmlParser$DefaultParserException.class
+END
+StartTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/StartTag.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/Tag.java
+END
+ParseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/ParseEvent.java
+END
+StartTag.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/StartTag.class
+END
+XmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/parser/XmlParser.java
+END

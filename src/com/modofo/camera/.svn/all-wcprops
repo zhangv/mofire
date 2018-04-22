@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/camera
+END
+VideoCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/camera/VideoCanvas.java
+END
+Camera.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7/trunk/%20mofire/mofire-refactor/src/com/modofo/camera/Camera.java
+END
+Photo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/camera/Photo.java
+END
+CameraEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/camera/CameraEvent.java
+END
+CameraListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/camera/CameraListener.java
+END
+VideoClip.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/camera/VideoClip.java
+END

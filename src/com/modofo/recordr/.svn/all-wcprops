@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/recordr
+END
+Recorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8/trunk/%20mofire/mofire-refactor/src/com/modofo/recordr/Recorder.java
+END
+Defaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/recordr/Defaults.java
+END
+RecorderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/recordr/RecorderEvent.java
+END
+AudioClip.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/recordr/AudioClip.java
+END
+RecorderForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/%20mofire/mofire-refactor/src/com/modofo/recordr/RecorderForm.java
+END
+RecorderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/recordr/RecorderListener.java
+END

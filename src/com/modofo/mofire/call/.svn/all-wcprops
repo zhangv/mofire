@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/call
+END
+AbstractCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/call/AbstractCall.java
+END
+GetPostCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/call/GetPostCall.java
+END
+CallFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/call/CallFactory.java
+END
+ValidateCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/call/ValidateCall.java
+END
+NewPostCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/call/NewPostCall.java
+END
+Call.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/%20mofire/mofire-refactor/src/com/modofo/mofire/call/Call.java
+END

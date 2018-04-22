@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/kdom
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/kdom/Node.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/kdom/Element.java
+END
+TreeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/kdom/TreeParser.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/%20mofire/mofire-refactor/src/org/kxml/kdom/Document.java
+END
